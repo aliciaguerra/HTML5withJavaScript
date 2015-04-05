@@ -36,3 +36,17 @@ navigation block) and < footer > (usually referring to the bottom of the webpage
 #HTML5 New APIs
 - In addition to specifying markup, HTML5 specifies scripting application programming interfaces (APIs) that can be used with
 JavaScript.
+- Existing document object model (DOM) interfaces are extended and de facto features documented.
+- There are also new APIs such as:
+<ul>
+<li>The canvas element for immediate mode 2D drawing.</li>
+<li>Timed media playback.</li>
+<li>Offline web applications.</li>
+<li>Document editing.</li>
+<li>Drag and drop.</li>
+<li>Cross-document messaging.</li>
+<li>Browser histroy management.</li>
+<li>MIME type and protocol handler.</li>
+<li>Microdata.</li>
+<li>Web Storage, a key-value pair storage framework that provides behavior similar to cookies but with larger storage capacity and improved API.</li>
+</ul>
