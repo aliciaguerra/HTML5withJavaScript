@@ -50,3 +50,9 @@ JavaScript.
 <li>Microdata.</li>
 <li>Web Storage, a key-value pair storage framework that provides behavior similar to cookies but with larger storage capacity and improved API.</li>
 </ul>
+- The W3C publishes specifications for these seperately:
+<ul>
+<li>Geolocation.</li>
+<li>Web SQL Database (a local SQL database), no longer maintained.</li>
+<li>The indexed database API, an indexed hierarchal (formerly WebSimpleDB).</li>
+</ul>
