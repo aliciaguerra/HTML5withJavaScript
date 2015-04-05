@@ -24,8 +24,8 @@ uniformly by all conforming browsers and user agents.
 #HTML5 Markup
 - HTML5 introduces elements and attributes that reflect typical usage on modern websites.
 <ul> 
-<li>Semantic replacements for common uses of generic block (< div >) and inline (<span>) elements; for example, <nav> (website
-navigation block) and <footer> (usually referring to the bottom of the webpage or to last lines of HTML code).</li>
-<li><audio> and <video> instead of the <object> tag</li>
-<li>Purely presentational elements such as <font> and <center> have been dropped; Casdcading Style sheets are used instead.
+<li>Semantic replacements for common uses of generic block (< div >) and inline (< span >) elements; for example, < nav > (website
+navigation block) and < footer > (usually referring to the bottom of the webpage or to last lines of HTML code).</li>
+<li>< audio > and < video > instead of the <object> tag</li>
+<li>Purely presentational elements such as < font > and < center > have been dropped; Casdcading Style sheets are used instead.
 </ul>
