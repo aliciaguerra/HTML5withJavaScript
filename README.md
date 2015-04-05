@@ -29,3 +29,10 @@ navigation block) and < footer > (usually referring to the bottom of the webpage
 <li>< audio > and < video > instead of the <object> tag</li>
 <li>Purely presentational elements such as < font > and < center > have been dropped; Casdcading Style sheets are used instead.
 </ul>
+- This is also a renewed emphasis on the importance of DOM scripting (e.g. JavaScript) in Web behavior.
+- It comes with a new introductory line "<!DOCTYPE html>", which triggers the standards-compliant rendering mode.
+
+
+#HTML5 New APIs
+- In addition to specifying markup, HTML5 specifies scripting application programming interfaces (APIs) that can be used with
+JavaScript.
